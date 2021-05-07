@@ -7,6 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beanflame&layout=compact&theme=prussian)
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beanflame)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beanflame&layout=compact&hide_border=true&hide=html,css,C++,zc)
 
 
