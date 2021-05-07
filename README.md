@@ -8,7 +8,7 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beanflame)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beanflame&hide=html,css,C++,zc&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=5AB649)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beanflame&hide=html,css,C++,zc&show_icons=true&title_color=FFFFFF&icon_color=79ff97&text_color=FFFFFF&bg_color=5AB649)
 
 
 
