@@ -1,8 +1,8 @@
 # Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=beanflame&locale=cn&show_icons=true">
-
 
 <img src="https://count.getloli.com/get/@beanflame?theme=gelbooru">
+
+<img src="https://github-readme-stats.vercel.app/api?username=beanflame&locale=cn&show_icons=true">
 
 
 # 🌟 **My Skills & Tools**
