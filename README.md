@@ -1,7 +1,5 @@
 # Hi there 👋
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=beanflame&locale=cn&show_icons=true">
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=beanflame&locale=cn&show_icons=true">
 
 
 <img src="https://count.getloli.com/get/@beanflame?theme=gelbooru">
