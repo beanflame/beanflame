@@ -1,11 +1,25 @@
 # Hi there 👋
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=beanflame&locale=cn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=011C32" />
+  <img   align="right" src="https://github-readme-stats.vercel.app/api?username=beanflame&locale=cn&show_icons=true">
 </a>
 
-![个人资料浏览总数](https://profile-counter.glitch.me/beanflame/count.svg)
+
+<img src="https://count.getloli.com/get/@beanflame?theme=gelbooru">
+
+
 
 # 🌟 **My Skills & Tools**
+
+![资料浏览总数](https://profile-counter.glitch.me/beanflame/count.svg)
+
+<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" /></code>
+<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" /></code>
+<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
+<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
+<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
+
+
 [![](https://img.shields.io/badge/-C/C++-007EC6?style=flat-square&logo=c&logoColor=fff)](https://www.cplusplus.com/)
 [![](https://img.shields.io/badge/-Vala-934EC5?style=flat-square&logo=V&logoColor=fff)](https://wiki.gnome.org/Projects/Vala/)
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
@@ -25,6 +39,19 @@
 [![](https://img.shields.io/badge/IDE-VisualStudio-672179?style=flat-square&logo=VisualStudio&logoColor=ffffff)](https://visualstudio.microsoft.com/) 
 [![](https://img.shields.io/badge/IDE-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)  
 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=beanflame&locale=cn&langs_count=10000&layout=compact">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -33,11 +60,16 @@
 
 
 <!-- 
-![:name](https://count.getloli.com/get/@:beanflame)  
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=beanflame&locale=cn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=011C32" />
+
+
+
+![:name](https://count.getloli.com/get/@beanflame)  
 
 # zh_cn 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beanflame&locale=cn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=011C32)](https://github.com/beanflame/)
-
 -->
 
 
