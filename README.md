@@ -13,7 +13,7 @@
 <code><img height="42" src="https://github.com/space-longan/OrangeCode/raw/main/OrangeCode.svg" /></code>
 <code><img height="42" src="https://github.com/uxnt/Otne/raw/main/otne.svg" /></code>
 <code><img height="42" src="https://github.com/uxnt/bplm/raw/main/BPLM.svg" /></code>
-
+<code><img height="42" src="https://github.com/beanflame/Honkai-lang/raw/main/Honkai.png" /></code>
 
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" /></code>
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" /></code>
