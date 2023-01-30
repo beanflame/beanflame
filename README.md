@@ -4,7 +4,7 @@
 
 # 🌟 **My Skills & Tools**
 
-<img height="90" src="images/xcache-logo.svg"/> | <img height="90" src="images/OrangeCode.svg"/> | <img height="90" src="images/Frigate.png"/>  | <img height="90" src="images/otne.svg"/> | <img height="90" src="images/BPLM.svg"/> | <img width="90" src="images/Honkai.png"/>
+<img height="64" src="images/xcache-logo.svg"/> | <img height="64" src="images/OrangeCode.svg"/> | <img height="64" src="images/Frigate.png"/>  | <img height="64" src="images/otne.svg"/> | <img height="64" src="images/BPLM.svg"/> | <img width="64" src="images/Honkai.png"/>
 :---:|:---:|:---:|:---:|:---:|:---:
 C | JavaScript | TypeScript | Python | Vue | [![](https://img.shields.io/badge/-C/C++-007EC6?style=flat-square&logo=c&logoColor=fff)](https://www.cplusplus.com/)
 [![](https://img.shields.io/badge/-Vala-934EC5?style=flat-square&logo=V&logoColor=fff)](https://wiki.gnome.org/Projects/Vala/) | [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/) | [![](https://img.shields.io/badge/-Golang-007D9C?style=flat-square&logo=go&logoColor=fff)](https://golang.google.cn/) | [![](https://img.shields.io/badge/-Java-E6882E?style=flat-square&logo=java&logoColor=fff)](https://www.java.com/zh-CN/) |  [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/) | [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
