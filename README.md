@@ -2,16 +2,7 @@
 <img width="400" src="https://count.getloli.com/get/@beanflame?theme=gelbooru">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=beanflame&locale=cn&show_icons=true">
 
-
-
-
-
 # 🌟 **My Skills & Tools**
-
-
-
-
-
 
 <img height="42" src="images/xcache-logo.svg"/> | <img height="42" src="images/OrangeCode.svg"/> | <img height="42" src="images/otne.svg"/> | <img height="42" src="images/BPLM.svg"/> | <img height="42" src="images/Honkai.png"/> | Java
 :---:|:---:|:---:|:---:|:---:|:---:
