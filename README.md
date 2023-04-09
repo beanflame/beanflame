@@ -2,6 +2,22 @@
 <img width="400" src="https://count.getloli.com/get/@beanflame?theme=gelbooru">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=beanflame&locale=cn&show_icons=true">
 
+
+
+
+# 🌟 **Design & Tools**
+
+
+<div align="">  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
+</div>
+
+
+
 # 🌟 **My Skills & Tools**
 
 <img height="64" src="images/xcache-logo.svg"/> | <img height="64" src="images/OrangeCode.svg"/> | <img height="64" src="images/Frigate.png"/>  | <img height="64" src="images/otne.svg"/> | <img height="64" src="images/BPLM.svg"/> | <img width="64" src="images/Honkai.png"/>
