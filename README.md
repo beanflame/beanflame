@@ -20,14 +20,14 @@
 1 | 2 | 3 | 4 | 5 | 6
 :---:|:---:|:---:|:---:|:---:|:---:
 <img height="48" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/> | <img height="48" src="https://api.iconify.design/file-icons:vala.svg"/> 
-<img height="48" src="images/otne.svg"/> | <img height="48" src="images/BPLM.svg"/>  | <img height="48" src="images/pnlo-logo.svg"/> | AenoScript | x | x
+<img height="48" src="images/otne.svg"/> | <img height="48" src="images/BPLM.svg"/>  | <img height="48" src="images/pnlo-logo.svg"/> | <img height="48" src="https://github.com/frigate-apps/Frigate/raw/main/Frigate2-logo.svg"/> | AenoScript | x
 <img height="48" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"/> | x | x | x
 <img height="48" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png"/> | x | x | x | x | x
  x | x | x | x | x | x
 
 
 
-
+ 
 
 
 
