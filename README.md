@@ -22,7 +22,7 @@
 <img height="48" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/> | Vala
 <img height="48" src="images/otne.svg"/> | <img height="48" src="images/BPLM.svg"/>  | <img height="48" src="images/pnlo-logo.svg"/> | AenoScript | x | x
 <img height="48" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"/> | x | x | x
- x | x | x | x | x | x
+<img height="48" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png"/> | x | x | x | x | x
  x | x | x | x | x | x
 
 
