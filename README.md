@@ -19,11 +19,14 @@
 # 🌟 **My Skills & Tools**
 1 | 2 | 3 | 4 | 5 | 6
 :---:|:---:|:---:|:---:|:---:|:---:
-C/C++ | CSharp | Java | JavaScript | Python | Vala
+C/C++ | CSharp | Java | JavaScript | <img height="48" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/> | Vala
 <img height="48" src="images/otne.svg"/> | <img height="48" src="images/BPLM.svg"/>  | Pnlo | AenoScript | x | x
 Linux | shell | x | x | x | x
  x | x | x | x | x | x
  x | x | x | x | x | x
+
+
+ 
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-VisualStudio-672179?style=flat-square&logo=VisualStudio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
