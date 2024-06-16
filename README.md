@@ -30,7 +30,7 @@ Linux | shell | x | x | x | x
 [![](https://img.shields.io/badge/IDE-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/) 
 
 
-# 🌟 **Programming Language Website**
+# 🌟 **Programming Language**
 
 <img height="48" src="images/otne.svg"/> <img height="48" src="images/BPLM.svg"/> 
 
