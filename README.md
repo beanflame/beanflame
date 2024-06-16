@@ -20,7 +20,7 @@
 1 | 2 | 3 | 4 | 5 | 6
 :---:|:---:|:---:|:---:|:---:|:---:
 C/C++ | CSharp | Java | JavaScript | Python | Vala
-Otne | bplm | Pnlo | AenoScript | x | x
+<img height="48" src="images/otne.svg"/> | <img height="48" src="images/BPLM.svg"/>  | Pnlo | AenoScript | x | x
 Linux | shell | x | x | x | x
  x | x | x | x | x | x
  x | x | x | x | x | x
