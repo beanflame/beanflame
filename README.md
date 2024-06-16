@@ -19,11 +19,12 @@
 # 🌟 **My Skills & Tools**
 1 | 2 | 3 | 4 | 5 | 6
 :---:|:---:|:---:|:---:|:---:|:---:
-C/C++ | CSharp | Java | <img height="48" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/> | Vala
+<img height="48" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg"/> | Java | <img height="48" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"/> | <img height="48" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/> | Vala
 <img height="48" src="images/otne.svg"/> | <img height="48" src="images/BPLM.svg"/>  | Pnlo | AenoScript | x | x
 Linux | shell | x | x | x | x
  x | x | x | x | x | x
  x | x | x | x | x | x
+
 
 
 
