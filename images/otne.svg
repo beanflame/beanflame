@@ -2,12 +2,12 @@
 <svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="1000">
-      <stop offset="0" stop-color="#0026F7" />
+      <stop offset="0" stop-color="#00A7BD" />
       <stop offset="1" stop-color="#60C49B" />
     </linearGradient>
   </defs>
   <g>
     <path d="M500 110C284.609 110 110 284.609 110 500C110 715.391 284.609 890 500 890C715.391 890 890 715.391 890 500C890 284.609 715.391 110 500 110C500 110 500 110 500 110ZM1000 500C1000 776.142 776.142 1000 500 1000C223.858 1000 0 776.142 0 500C0 223.858 223.858 0 500 0C776.142 0 1000 223.858 1000 500C1000 500 1000 500 1000 500Z" fill="url(#gradient_1)" />
-    <path d="M124.976 0L291.024 0L291.024 250L416.155 250L416.153 416.25L291.024 500L291.024 500L124.976 500L124.976 250.25L0 250.25L0 84L0 84L124.976 0L124.976 0Z" fill="#4DA5AD" transform="translate(292 250)" />
+    <path d="M124.976 0L291.024 0L291.024 250L416.155 250L416.153 416.25L291.024 500L291.024 500L124.976 500L124.976 250.25L0 250.25L0 84L0 84L124.976 0L124.976 0Z" fill="#37B8A9" transform="translate(292 250)" />
   </g>
 </svg>
